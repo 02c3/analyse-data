@@ -1,14 +1,10 @@
 {
   "nego": {
     "password": "Admin",
-    "channel_id": "1387123496643203276"
+    "channel_id": "1390418668546035893"
   },
   "dma": {
     "password": "dma",
-    "channel_id": "1388588915287396424"
-  },
-  "nega": {
-    "password": "nega",
-    "channel_id": "1388843306447802428"
+    "channel_id": "1390418678612361419"
   }
 }
